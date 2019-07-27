@@ -1,0 +1,44 @@
+
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    background-image:url("images/img.jpg");
+    background-position:center;
+    height:100vh;
+    width:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+
+ul li{
+    list-style: none;
+    float:left;
+    font-size:20px;
+}
+ul li:hover{
+    background-color:rgb(216, 112, 15);
+    border-radius:5px;
+}
+ .a {
+    text-align: center;
+    color:tomato;
+    text-shadow:3px 3px 3px yellowgreen;
+    margin:200px;
+}
+.b{
+    text-align:center;
+    text-shadow: 3px 3px 3px gray;
+}
+.c{
+    text-align: center;
+    text-shadow: 3px 3px 3px gray;
+}
+.d{
+    text-align: center;
+    text-shadow: 3px 3px 3px gray;   
+}
+
